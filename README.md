@@ -27,3 +27,10 @@ Veja abaixo como a aplicação funciona:
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+
+---
+
+## 📌 Como executar localmente
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Marcusdba/todo-list.git
